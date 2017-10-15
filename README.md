@@ -1,2 +1,3 @@
-This is Telegram bot for Mozilla Localization Tool Pontoon
-Work on Progress!!
+
+# Pontoon Bot
+Telegram Bot for Localization Tool Pontoon
